@@ -16,9 +16,9 @@
   <p align="center">
     A chrome extension that shows the sentiment of text on a page.
     <br />
-    <a href="https://github.com/benjenkinsv95/do-you-really-need-that/issues">Report Bug</a>
+    <a href="https://github.com/benjenkinsv95/sentimentsion/issues">Report Bug</a>
     ·
-    <a href="https://github.com/benjenkinsv95/do-you-really-need-that/issues">Request Feature</a>
+    <a href="https://github.com/benjenkinsv95/sentimentsion/issues">Request Feature</a>
   </p>
 </p>
 
@@ -59,13 +59,13 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone https:://github.com/benjenkinsv95/do-you-really-need-that.git
+git clone https:://github.com/benjenkinsv95/sentimentsion.git
 ```
 2. Load the unpacked extension following [these steps](https://stackoverflow.com/a/24577660)
 
 ## Roadmap
 
-See the [open issues](https://github.com/benjenkinsv95/do-you-really-need-that/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/benjenkinsv95/sentimentsion/issues) for a list of proposed features (and known issues).
 
 
 
@@ -94,19 +94,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@benjenkinsv95](https://twitter.com/benjenkinsv95) - benjenkinsv95@gmail.com
 
-Project Link: [https://github.com/benjenkinsv95/do-you-really-need-that](https://github.com/benjenkinsv95/do-you-really-need-that)
+Project Link: [https://github.com/benjenkinsv95/sentimentsion](https://github.com/benjenkinsv95/sentimentsion)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/benjenkinsv95/do-you-really-need-that.svg?style=flat-square
-[contributors-url]: https://github.com/benjenkinsv95/do-you-really-need-that/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/benjenkinsv95/do-you-really-need-that.svg?style=flat-square
-[forks-url]: https://github.com/benjenkinsv95/do-you-really-need-that/network/members
-[stars-shield]: https://img.shields.io/github/stars/benjenkinsv95/do-you-really-need-that.svg?style=flat-square
-[stars-url]: https://github.com/benjenkinsv95/do-you-really-need-that/stargazers
-[issues-shield]: https://img.shields.io/github/issues/benjenkinsv95/do-you-really-need-that.svg?style=flat-square
-[issues-url]: https://github.com/benjenkinsv95/do-you-really-need-that/issues
-[license-shield]: https://img.shields.io/github/license/benjenkinsv95/do-you-really-need-that.svg?style=flat-square
-[license-url]: https://github.com/benjenkinsv95/do-you-really-need-that/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/benjenkinsv95/sentimentsion.svg?style=flat-square
+[contributors-url]: https://github.com/benjenkinsv95/sentimentsion/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/benjenkinsv95/sentimentsion.svg?style=flat-square
+[forks-url]: https://github.com/benjenkinsv95/sentimentsion/network/members
+[stars-shield]: https://img.shields.io/github/stars/benjenkinsv95/sentimentsion.svg?style=flat-square
+[stars-url]: https://github.com/benjenkinsv95/sentimentsion/stargazers
+[issues-shield]: https://img.shields.io/github/issues/benjenkinsv95/sentimentsion.svg?style=flat-square
+[issues-url]: https://github.com/benjenkinsv95/sentimentsion/issues
+[license-shield]: https://img.shields.io/github/license/benjenkinsv95/sentimentsion.svg?style=flat-square
+[license-url]: https://github.com/benjenkinsv95/sentimentsion/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/benjenkinsv95
